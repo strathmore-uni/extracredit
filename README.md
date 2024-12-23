@@ -114,24 +114,6 @@ Navigate to the Django admin interface at http://127.0.0.1:8000/admin/ to manage
 For Developers:
 API Access: Use the API endpoints to manage flights, passengers, and bookings programmatically.
 Enhancements: Implement additional features, such as notifications, payment integration, or flight search filters.
-# Contributing
-We welcome contributions to improve the system! If you'd like to contribute, follow these steps:
 
-Fork the repository.
-Create a new branch:
-bash
-Copy code
-git checkout -b feature-name
-Make your changes and commit them:
-bash
-Copy code
-git commit -am 'Add new feature'
-Push to your branch:
-bash
-Copy code
-git push origin feature-name
-Open a pull request with a description of your changes.
-Please ensure your contributions follow the project’s code style and include appropriate tests.
 
-# License
-This project is licensed under the MIT License – see the LICENSE file for details.
+
